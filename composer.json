@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CodeGenation\\CodeGenation\\CodeGenationServiceProvider"
+                "CodeGenation\\CodeGenation\\ServiceProvider"
             ]
         }
     },
