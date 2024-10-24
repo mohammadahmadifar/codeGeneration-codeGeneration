@@ -1,5 +1,5 @@
 {
-    "name": "codeGenation/codeGenation",
+    "name": "code-genation/code-genation",
     "description": "A dynamic code generation package for Laravel, simplifying module and filter creation based on user-defined fields.",
     "type": "library",
     "require": {
