@@ -1,0 +1,21 @@
+{
+    "name": "codeGenation/codeGenation",
+    "description": "A dynamic code generation package for Laravel, simplifying module and filter creation based on user-defined fields.",
+    "type": "library",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "codeGenation\\codeGenation\\": "packages/codeGenation/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Ahmadifar",
+            "email": "mohammadahmadifar1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
